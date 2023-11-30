@@ -1,4 +1,4 @@
-from string import ascii_uppercase, ascii_lowercase
+from string import ascii_uppercase
 
 alphabet = 'jlsqrtmaz-vhxckbudeynwg-o-'
 #           ABCDEFGHIJKLMNOPQRSTUVWXYZ
